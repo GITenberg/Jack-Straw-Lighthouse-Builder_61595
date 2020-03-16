@@ -1,0 +1,38 @@
+_repo: Jack-Straw-Lighthouse-Builder_61595
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crump, Leslie
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '44200'
+    url: http://www.gutenberg.org/2009/agents/44200
+creator:
+  author:
+    agent_name: Crump, Irving
+    aliases:
+    - Crump, James Irving
+    - Crump, J. Irving (James Irving)
+    birthdate: 1887
+    deathdate: 1979
+    gutenberg_agent_id: '34618'
+    url: http://www.gutenberg.org/2009/agents/34618
+description: ''
+gutenberg_issued: '2020-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Construction industry -- Employees -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Lighthouses -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Jack Straw, Lighthouse Builder
+url: http://www.gutenberg.org/ebooks/61595
